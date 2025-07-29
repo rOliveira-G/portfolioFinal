@@ -496,3 +496,7 @@
  .line-footer-email{
     text-decoration: none;
  }
+.line-footer-email:hover{
+    color: #ff4141;
+}
+
